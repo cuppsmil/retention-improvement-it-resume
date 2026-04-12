@@ -15,3 +15,15 @@
 
 ### DAU / MAU / SF
 ![DAU MAU SF](../screenshots/MAU-DAU-SF.png)
+
+### TTFV 
+![TTFV](../screenshots/TTFV.png)
+
+### N-day retention
+![N-day retention](../screenshots/N-day-retention.png)
+
+### Rolling retention
+![Rolling retention](../screenshots/Rolling-retention.png)
+
+### Churn rate 
+![Churn rate](../screenshots/Churn-rate.png)
