@@ -14,4 +14,4 @@
 ---
 
 ### DAU / MAU / SF
-![DAU MAU SF](screenshots/MAU-DAU-SF.png)
+![DAU MAU SF](../screenshots/MAU-DAU-SF.png)
