@@ -10,3 +10,8 @@
 
 ### В этом случае:
 ниже смотри скриншоты из папки `screenshots/`
+
+---
+
+### DAU / MAU / SF
+![DAU MAU SF](screenshots/MAU-DAU-SF.png)
