@@ -66,15 +66,19 @@
 
 ```bash
 retention-improvement-it-resume/
-├── README.md
+│
+├── README.md                # Общее описание проекта, инсайты и гипотезы
+│
 ├── docs/
-│   └── hypothesis.md
+│   └── hypothesis.md        # Продуктовые гипотезы по увеличению retention
+│
 ├── sql/
-│   ├── dau.sql
-│   ├── mau.sql
-│   ├── retention.sql
-│   ├── churn.sql
-│   └── ttfv.sql
-├── screenshots/
-├── dashboard/
-└── notes/
+│   └── sql.md               # SQL-запросы для расчёта метрик (DAU, MAU, Retention, Churn, TTFV)
+│
+├── screenshots/             # Скриншоты дашбордов и графиков
+│   ├── retention.png
+│   ├── dau_mau.png
+│   └── ttfv.png
+│
+└── dashboard/
+    └── metabase_link.txt    # Ссылка на публичный дашборд (или описание)

@@ -1,4 +1,4 @@
-# SQL Analysis — Retention (IT Resume)
+# SQL Analysis - Retention (IT Resume)
 
 В этом разделе представлены SQL-запросы, использованные для анализа удержания пользователей платформы IT Resume.
 
