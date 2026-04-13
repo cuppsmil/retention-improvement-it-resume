@@ -72,13 +72,15 @@ retention-improvement-it-resume/
 ├── docs/
 │   └── hypothesis.md        # Продуктовые гипотезы по увеличению retention
 │
-├── sql/
-│   └── sql.md               # SQL-запросы для расчёта метрик (DAU, MAU, Retention, Churn, TTFV)
+├── sql_queries/
+│   └── sql_queries.md               # SQL-запросы для расчёта метрик (DAU, MAU, Retention, Churn, TTFV)
 │
 ├── screenshots/             # Скриншоты дашбордов и графиков
-│   ├── retention.png
-│   ├── dau_mau.png
-│   └── ttfv.png
+│   ├── MAU-DAU-SF.png
+│   ├── TTFV.png
+|   ├── N-day-retention.png
+|   ├── Rolling-retentnion.png
+│   └── Churn-rate.png
 │
 └── dashboard/
-    └── metabase_link.txt    # Ссылка на публичный дашборд (или описание)
+    └── metabase_link  # Ссылка на публичный дашборд (или описание)
